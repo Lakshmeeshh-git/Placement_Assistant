@@ -6,4 +6,4 @@ process and the students' performances in their tests
 along with the generation of various reports using
 XLRD. Front-end : HTML 5 , CSS 3 , BootStrap 4 ,
 JavaScript.Back-end : Python and Framework :
-Django.# Placement_Assistant
+Django.
